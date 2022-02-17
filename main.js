@@ -6,6 +6,5 @@ function sort(str) {
     }
     return res
 }
-
 var res = sort(["a", "b", "c"])
 console.log(res)
